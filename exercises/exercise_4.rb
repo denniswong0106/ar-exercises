@@ -14,7 +14,7 @@ puts "----------"
   annual_revenue: 224000,
   mens_apparel: false,
   womens_apparel: true
-  )
+)
 
 @store5 = Store.create(
   name: "Whistler",
